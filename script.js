@@ -1,5 +1,5 @@
 //your JS code here. If required.
-function firstNonRepeatedCharacter(let s) 
+function firstNonRepeatedChar(let s) 
 {
   let charArray = new Array(26).fill(0);
   
